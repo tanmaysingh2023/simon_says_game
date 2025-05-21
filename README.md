@@ -1,4 +1,5 @@
 # Simon Says Game
+[🔗 Live Demo](https://tanmaysingh2023.github.io/simon_says_game/)
 
 A fun and interactive Simon Says game built using JavaScript, HTML, and CSS. The game challenges players to remember and repeat an increasing sequence of colors.
 
